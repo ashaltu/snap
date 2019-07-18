@@ -1,6 +1,6 @@
 # Create Snap Account
 
-
+## Sign Up
 
 In order to save your programs, the first thing you'll need to do is make an account. In the SNAP browser window, Find the cloud-shaped button in the top toolbar on the upper left corner of the window:
 
