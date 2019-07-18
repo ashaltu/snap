@@ -1,0 +1,20 @@
+# Table of contents
+
+* [CS Beginnings](README.md)
+* [Snap Basics](snap-basics-1/README.md)
+  * [Create Snap Account](snap-basics-1/create-snap-account.md)
+  * [Save & Share Projects](snap-basics-1/save-and-share-projects.md)
+  * [Snap Window](snap-basics-1/snap-window.md)
+  * [Block Categories](snap-basics-1/block-categories.md)
+  * [Sprites](snap-basics-1/sprites.md)
+  * [Scripts](snap-basics-1/scripts.md)
+  * [Movement & Position](snap-basics-1/movement-and-position.md)
+  * [Drawing](snap-basics-1/drawing.md)
+* [Loops](loops.md)
+* [Lists](lists.md)
+* [Loops](loops-1.md)
+* [Cloning](cloning.md)
+* [Customization](customization.md)
+* [Glossary](glossary.md)
+* [Accessibility](accessibility.md)
+
