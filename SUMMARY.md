@@ -15,6 +15,7 @@
 * [Loops](loops-1.md)
 * [Cloning](cloning.md)
 * [Customization](customization.md)
-* [Glossary](glossary.md)
+* [GlossaryV1](glossaryv1.md)
+* [GlossaryV2](glossaryv2.md)
 * [Accessibility](accessibility.md)
 
