@@ -8,9 +8,9 @@
 
 **Definition**: Puzzle-piece shapes that are used to create code in snap!
 
-#### Assignments: [Lab 2.4 - Guessing Game](glossaryv2.md), [Lab 25 - Triangles of All Kinds](glossaryv2.md)
+**Assignments**: [Lab 2.4 - Guessing Game](glossaryv2.md), [Lab 2.5 - Triangles of All Kinds](glossaryv2.md)
 
-#### Related Content: [Blocks Documentation](glossaryv2.md),[ Blocks Examples](glossaryv2.md), [Blocks Tutorial](glossaryv2.md)
+**Related Content**: [Blocks Documentation](glossaryv2.md),[ Blocks Examples](glossaryv2.md), [Blocks Tutorial](glossaryv2.md)
 
 ## C
 
@@ -18,9 +18,9 @@
 
 **Definition**: A costume is one out of possibly many "frames" or alternate appearances of a sprite.
 
-#### Assignments: [Lab 2.4 - Guessing Game](glossaryv2.md), [Lab 25 - Triangles of All Kinds](glossaryv2.md)
+**Assignments**: [Lab 2.4 - Guessing Game](glossaryv2.md), [Lab 2.5 - Triangles of All Kinds](glossaryv2.md)
 
-#### Related Content: [Blocks Documentation](glossaryv2.md),[ Blocks Examples](glossaryv2.md), [Blocks Tutorial](glossaryv2.md)
+**Related Content**: [Blocks Documentation](glossaryv2.md),[ Blocks Examples](glossaryv2.md), [Blocks Tutorial](glossaryv2.md)
 
 ## D
 
@@ -56,27 +56,27 @@
 
 ### Scripts
 
-* Different types of blocks linked together.
+Different types of blocks linked together.
 
-#### Assignments: [Lab 2.4 - Guessing Game](glossaryv2.md), [Lab 25 - Triangles of All Kinds](glossaryv2.md)
+**Assignments**: [Lab 2.4 - Guessing Game](glossaryv2.md), [Lab 2.5 - Triangles of All Kinds](glossaryv2.md)
 
-#### Related Content: [Blocks Documentation](glossaryv2.md),[ Blocks Examples](glossaryv2.md), [Blocks Tutorial](glossaryv2.md)
+**Related Content**: [Blocks Documentation](glossaryv2.md),[ Blocks Examples](glossaryv2.md), [Blocks Tutorial](glossaryv2.md)
 
 ### Sprites
 
-#### An object in Snap! Which performs functions controlled by scripts.
+> An object in Snap! Which performs functions controlled by scripts.
 
-#### Assignments: [Lab 2.4 - Guessing Game](glossaryv2.md), [Lab 25 - Triangles of All Kinds](glossaryv2.md)
+**Assignments**: [Lab 2.4 - Guessing Game](glossaryv2.md), [Lab 2.5 - Triangles of All Kinds](glossaryv2.md)
 
-#### Related Content: [Blocks Documentation](glossaryv2.md),[ Blocks Examples](glossaryv2.md), [Blocks Tutorial](glossaryv2.md)
+**Related Content**: [Blocks Documentation](glossaryv2.md),[ Blocks Examples](glossaryv2.md), [Blocks Tutorial](glossaryv2.md)
 
 ### Stage
 
 **Definition**: The background of a project, performs functions through scripting.
 
-#### Assignments: [Lab 2.4 - Guessing Game](glossaryv2.md), [Lab 25 - Triangles of All Kinds](glossaryv2.md)
+**Assignments**: [Lab 2.4 - Guessing Game](glossaryv2.md), [Lab 2.5 - Triangles of All Kinds](glossaryv2.md)
 
-#### Related Content: [Blocks Documentation](glossaryv2.md),[ Blocks Examples](glossaryv2.md), [Blocks Tutorial](glossaryv2.md)
+**Related Content**: [Blocks Documentation](glossaryv2.md),[ Blocks Examples](glossaryv2.md), [Blocks Tutorial](glossaryv2.md)
 
 ## T
 

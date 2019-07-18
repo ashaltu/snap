@@ -1,8 +1,14 @@
+---
+description: >-
+  Hyperlinks in other pages won't correctly link to this page. Only GlossaryV2
+  works for that
+---
+
 # GlossaryV1
 
 {% tabs %}
 {% tab title="A" %}
-## Blocks
+
 {% endtab %}
 
 {% tab title="B" %}
