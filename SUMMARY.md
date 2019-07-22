@@ -1,30 +1,42 @@
 # Table of contents
 
-* [CS Beginnings](README.md)
-* [Snap Basics](snap-basics/README.md)
-  * [Create Snap Account](snap-basics/create-snap-account.md)
-  * [Save & Share Projects](snap-basics/save-and-share-projects.md)
-  * [Snap Window](snap-basics/snap-window.md)
-  * [Block Categories](snap-basics/block-categories/README.md)
-    * [Motion](snap-basics/block-categories/motion.md)
-    * [Looks](snap-basics/block-categories/looks.md)
-    * [Sound](snap-basics/block-categories/sound.md)
-    * [Pen](snap-basics/block-categories/pen.md)
-    * [Control](snap-basics/block-categories/control.md)
-    * [Sensing](snap-basics/block-categories/sensing.md)
-    * [Operators](snap-basics/block-categories/operators.md)
-    * [Variables](snap-basics/block-categories/variables.md)
-  * [Sprites](snap-basics/sprites.md)
-  * [Scripts](snap-basics/scripts.md)
-  * [Movement & Position](snap-basics/movement-and-position.md)
-  * [Drawing](snap-basics/drawing.md)
-* [Loops](loops.md)
-* [Lists](lists.md)
-* [Loops](loops-1.md)
-* [Cloning](cloning.md)
-* [Customization](customization.md)
-* [GlossaryV1](glossaryv1.md)
-* [GlossaryV2](glossaryv2.md)
-* [Accessibility](accessibility/README.md)
-  * [Zoom Blocks](accessibility/zoom-blocks.md)
-
+* [Introduction](README.md)
+* [Getting Started with Snap]()
+    * [Introduction]
+        * Labs
+          * [Introduction to Snap]()
+    * [Building blocks]
+        * Do-now
+          * [Do-now name]()
+        * Labs
+          * [Lab name]()
+        * Projects
+          * [Project name]()
+          * [Project name]()
+    * [Drawing shapes]
+        * Do-now
+          * [Do-now name]()
+        * Labs
+          * [Lab name]()
+* [Glossary](glossary.md)
+* [References]
+  * [How to's]
+    * [Create Snap Account](basics/create-account.md)
+    * [Save & Share Projects](basics/save-and-share-projects.md)
+    * [Snap Window](basics/window.md)
+    * [Sprites](basics/sprites.md)
+    * [Scripts](basics/scripts.md)
+    * [Movement & Position](basics/movement-and-position.md)
+    * [Drawing](basics/drawing.md)
+  * [Accessibility]
+    * [Zoom Blocks](references/accessibility/zoom-blocks.md)
+  * [Blocks](references/blocks.md)
+  * [Palettes]
+    * [Motion](references/palettes/motion.md)
+    * [Looks](references/palettes/looks.md)
+    * [Sound](references/palettes/sound.md)
+    * [Pen](references/palettes/pen.md)
+    * [Control](references/palettes/control.md)
+    * [Sensing](references/palettes/sensing.md)
+    * [Operators](references/palettes/operators.md)
+    * [Variables](references/palettes/variables.md)
