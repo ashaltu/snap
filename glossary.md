@@ -2,6 +2,16 @@
 
 ## A
 
+### Abstraction
+Removing the specifics that are not relevant in a given context.
+
+**Lessons:** [Customization](customization/README.md)
+
+### Argument 
+Any area in a block that accepts user input, or another block. It could be a Boolean Block or a value placed inside of a variable or block. The value that is "passed into" a parameter of a custom block.
+
+**Lessons:** [Customization](customization/README.md)
+
 ## B
 
 ### Backgrounds
@@ -10,79 +20,210 @@ Pictures that fill the entire stage area.
 ### Block
 Puzzle-piece shapes that are used to create code in snap!
 
-**References:** [Blocks](), [Block categories]() | **Lessons:** [Lesson name](), [Lesson name]()
+**References:** [Blocks](references/blocks/README.md) | **Lessons:** [Getting Started with Snap!](getting_started_with_snap/README.md)
+
+### Boolean Expression
+A value (text, number, picture, etc.) that evaluate to true or false.
+
+**Lessons:** [Loops](loops/README.md)
+
+### Boolean Operators
+Boolean expressions that can be nested.
+
+**Lessons:** [Loops](loops/README.md)
 
 
 ## C
 
-### C-shaped blocks
-* accepts scripts
-* typically found in the [control palette](references/snap-palettes/control.md)
-[IMAGE]
-**Related**: [Block](), [Command block]()
+### Command Block
+Puzzle-piece shaped block that executes a command (it causes an effect).
+
+**Lessons:** [Customization](customization/README.md)
+
+### Cloning
+A feature that allows a sprite to create a clone, or semi-duplicate, of itself, while the project is running. Clones of a sprite will be the same as the original or parent sprite but as a separate instance. Clones inherit the parent's scripts, costumes, sounds, and properties, yet they can then be modified.
+
+**Lessons:** [Cloning](cloning/README.md)
+
+### Conditional 
+A block used to make a choice between executing two different chunks of code."If" statements.
+
+**Lessons:** [Loops](loops/README.md)
+
+### Contains Block
+Checks an operator block for a particular variable.
+
+**Lessons:** [Lists](lists/README.md)
 
 ### Costume
-A costume is one out of possibly many "frames" or alternate appearances of a sprite. A new appearance imported and applied to a sprite. There are 3 ways to import a sprite after its been selected in the sprite corral: One way is to click on the file icon in the tool bar, then choose the “Costumes…”menu item.  You will see a list of costumes from the public media library, and can choose one.  The second way, for a costume stored on your own computer, is to click on the file icon and choose the “Import…” menu item.  You can then select a file in any picture format (PNG, JPEG, etc.) supported by your browser.  The third way is quicker if the file you want is visible on the desktop:  Just drag the file onto the Snap! window.
-**Related**: [Sprite]()
+A costume is one out of possibly many "frames" or alternate appearances of a sprite.
 
-### Command block
-Most command blocks have a brick shape. Each command block corresponds to an action that Snap! already knows how to carry out.
-**Related**: [C-shaped block]()
+**Lessons:** [Getting Started with Snap!](getting_started_with_snap/README.md)
+
+### Custom Blocks
+Allow for one to make their own programming blocks.
+
+**Lessons:** [Customization](customization/README.md)
 
 ## D
 
+### Detail Removal
+Reducing the complexity of an algorithm or process by focusing on the important parts.
+
+**Lessons:** [Customization](customization/README.md)
+
 ## E
+
+`No E entries`
 
 ## F
 
+### Functions/Methods
+Other programming languages, like Python or Java, use these terms to refer to the same idea as a Custom Block in Snap! a reusable.
+
+**Lessons:** [Loops](loops/README.md)
+
 ## G
+
+### Generalization
+Combining a group of related concepts or processes into a single category.
+
+**Lessons:** [Customization](customization/README.md)
+
+### Global Variable
+A variable that can be used by all of your sprites.
+
+**Lessons:** [Cloning](cloning/README.md)
 
 ## H
 
+`No H entries`
+
 ## I
 
+### Index Variable
+Keeps track of where you currently are in a list.
+
+**Lessons:** [Lists](lists/README.md)
+
 ## J
+
+### Join Block
+Links two values together and reports the result.
+
+**Lessons:** [Lists](lists/README.md)
 
 ### Jukebox
 A collection of sounds that can be applied to a sprite costume. 
 
 ## K
 
+`No K entries`
+
 ## L
+
+### Lists Block
+A block which controls a list.
+**Lessons:** [Lists](lists/README.md)
+
+### List Element
+A part of a list.
+
+**Lessons:** [Lists](lists/README.md)
+
+### Loop
+A type of block that causes other code to run multiple times in succession. A control flow statement that allows code to be executed repeatedly based on a given Boolean condition.
+
+**Lessons:** [Loops](loops/README.md)
 
 ## M
 
+### Modeling
+Building a system to simulate the behavior of a real-life phenomenon by simplifying or ignoring certain details.
+
+**Lessons:** [Loops](loops/README.md)
+
 ## N
+
+### Nested Loop
+A loop used inside the body of another loop.
+
+**Lessons:** [Loops](loops/README.md)
 
 ## O
 
+### Operator Block
+A block that performs math functions and string handling.
+
+**Lessons:** [Lists](lists/README.md)
+
 ## P
+
+### Predicate Block
+A hexagonal block that always returns a Boolean value (true or false).
+
+### Procedural Decomposition
+Breaking a problem down into smaller subtasks, usually to increase readability and/or maintainability, often by applying one of the above concepts.
+
+**Lessons:** [Customization](customization/README.md)
+
+### Programming List
+Called an 'array' in most programming languages, this holds lots of values.
+
+**Lessons:** [Lists](lists/README.md)
 
 ## Q
 
+`No Q entries`
+
 ## R
 
-### Reporter Block
-A report block runs, instead of carrying out an action, it reports a value that can be used as an input to another block.  If you drag a reporter into the scripting area by itself and click on it, the value it reports will appear in a speech balloon next to the block. When you drag a reporter block over another block’s input slot, a white “halo” appears around that input slot, analogous to the white line that appears when snapping command blocks together.
+### Receive Block
+Code Block in Control that receives a message from another block.
 
+**Lessons:** [Getting Started with Snap!](getting_started_with_snap/README.md)
+
+### Reporter Block
+Report a value, usually for use in another block's input slot.
+
+**Lessons:** [Customization](customization/README.md)
 
 ## S
 
-### Snap
+### Say Block
+The block gives its sprite a speech bubble with the specified text — the speech bubble stays until an another speech or thought block is activated, or the stop sign is pressed.
+
+**Lessons:** [Customization](customization/README.md)
+
+### Scenario
+A description of a set of interactions and/or tasks that describe a start-to-finish example of how a user might want to use the application
+
+**Lessons:** [Final Project](final_projects/README.md)
+
+### Snap!
 Snap! is an extended reimplementation of [Scratch](http://scratch.mit.edu) that allows you to Build Your Own Blocks.  It also features ﬁrst class lists, ﬁrst class procedures, first class sprites, first class costumes, first class sounds, and first class continuations.  These added capabilities make it suitable for a serious introduction to computer science for high school or college students.
+
 **Related** [Snap How-to's](/references/how-to/README.md)
 
 ### Scripts
-A script is assembled by dragging blocks from a palette into the scripting area in the middle part of the window. A script isn’t required to have a [hat block](glossaryv2.md#hat-block), but if not, then the script will be run only if the user clicks on the script itself.  A script can’t have more than one hat block, and the hat block can be used only at the top of the script.
-**Related**: [hat block](glossaryv2.md#hat-block)
+Different types of blocks linked together
+
+**References:** [Blocks](references/blocks/README.md) |**Lessons:** [Getting Started with Snap!](getting_started_with_snap/README.md)
+
+### Sequential Search Algorithm
+A method for finding a target value within a list. It sequentially checks each element of the list for the target value until a match is found or until all the elements have been searched.
+
+**Lessons:** [Lists](lists/README.md)
 
 ### Sprites
-The arrowhead shape on the stage at the right end of the window. A sprite doesn’t have to look like an arrowhead, but can have any picture as a costume. Each sprite has its own scripts. 
+An object in Snap! Which performs functions controlled by scripts.
+
+**Lessons:** [Getting Started with Snap!](getting_started_with_snap/README.md)
 
 ### Stage
 The background of a project, performs functions through scripting.
-**Assignments**: [Lab 2.4 - Guessing Game](glossaryv2.md), [Lab 2.5 - Triangles of All Kinds](glossaryv2.md)
-**Related**: [Blocks Documentation](glossaryv2.md),[ Blocks Examples](glossaryv2.md), [Blocks Tutorial](glossaryv2.md)
+
+**Lessons:** [Getting Started with Snap!](getting_started_with_snap/README.md)
 
 ### Super-sprite
 A sprite that is  composed of pieces that can move together but can also be separately articulated.
@@ -90,17 +231,60 @@ A sprite that is  composed of pieces that can move together but can also be sepa
 
 ## T
 
+### Transform
+Create a new list based on the values of the old list.
+
+**Lessons:** [Lists](lists/README.md)
+
+### Traverse
+Go through or travel across an item/list.
+
+**Lessons:** [Lists](lists/README.md)
+
+### Truth Tables
+A tool for evaluating the possible inputs and outputs of a Boolean expression.
+
+**Lessons:** [Loops](loops/README.md)
+
+
 ## U
+
+`No U entries`
 
 ## V
 
+### Variable
+A placeholder for some value. Types of variables:Global variables - apply to all sprites Sprite variable - applies to one sprite Script variable - parameter that applies to one script
+
 ## W
+
 ### Wardrobe
 A collection of sprite costumes. The wardrobe is located in the Costumes tab, which is accessed through the file icon.
 
+### Watcher Block
+reporter blocks you can click the checkbox for; they will appear in the Stage and you can track them.
+
+**Lessons:** [Getting Started with Snap!](getting_started_with_snap/README.md)
+
+### Wireframe
+A high-level sketch of an application's user interface intended to help visualize layout, interactions, and transitions
+
+**Lessons:** [Final Project](final_projects/README.md)
+
 ## X
+
+### X Position
+The position that a sprite or the mouse is at along the horizontal axis.
+
+**Lessons:** [Getting Started with Snap!](getting_started_with_snap/README.md)
 
 ## Y
 
+### Y Position
+The position that a sprite or the mouse is at along the vertical axis.
+
+**Lessons:** [Getting Started with Snap!](getting_started_with_snap/README.md)
+
 ## Z
 
+`No Z entries`

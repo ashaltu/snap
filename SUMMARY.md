@@ -1,176 +1,176 @@
 # Table of contents
 
-* [Introduction](README.md)
-	* [The First Day](lesson_01.md)
-	* [Algorithms](lesson_02.md)
-	* [Programming Languages](lesson_03.md)
-	* [SNAP Self-Portrait](lesson_04.md)
-		* Do now
-			* [I Am ...](do_now_04.md)
-		* Labs
-			* [Getting to Know You](lab_04.md)
-* [Getting Started with Snap](unit_1.md)
-	* [Welcome to SNAP](lesson_11.md)
-		* Labs
-			* [Welcome to SNAP!](lab_11.md)
-	* [SNAP Continued](lesson_11.md)
-	* [Building Blocks](lesson_12.md)
-		* Do now
-			* [Tracing and Debugging](do_now_12.md)
-		* Labs
-			* [SNAP Scavenger Hunt](lab_12.md)
-	* [Drawing Shapes](lesson_13.md)
-		* Do now
-			* [Drawing a Triangle](do_now_13.md)
-		* Labs
-			* [Squares, Triangles, and Stars, Oh My!](lab_13.md)
-	* [Animation](lesson_14.md)
-		* Do now
-			* [Sprite Communication](do_now_14.md)
-		* Labs
-			* [Sprites in Action](lab_14.md)
-	* Quiz
-		* [SNAP Basics](quiz_1.md)
-	* [Storytelling Project](lesson_15.md)
-		* Do now
-			* [Knock Knock](do_now_15.md)
-			* [Click Event Interaction](do_now_152.md)
-			* [Movement Interaction](do_now_153.md)
-		* Projects
-			* [Animated Storytelling](project_1.md)
-* [Loops](unit_2.md)
-	* [Loops](lesson_21.md)
-		* Do now
-			* [Intro Loops](do_now_21.md)
-		* Labs
-			* [Squares and Triangles Redux](lab_21.md)
-	* [Nested Loops](lesson_22.md)
-		* Do Now
-			* [Debugging Loops](do_now_22.md)
-		* Labs
-			* [Yellow Brick Road](lab_22.md)
-	* [Inputs and Conditionals](lesson_23.md)
-		* Do now
-			* [Do Now 2.3: Stairs](do_now_23.md)
-		* Labs
-			* [What Shape is That?](lab_23.md)
-	* [Variables](lesson_24.md)
-		* Do now
-			* [Do Now 2.4: Debugging](do_now_24.md)
-		* Labs
-			* [Guessing Game](lab_24.md)
-	* [Boole in the House](lesson_25.md)
-		* Do now
-			* [Variables Practice](do_now_25.md)
-		* Labs
-			* [Triangles of All Kinds](lab_25.md)
-	* [Combining Loops and Conditionals](lesson_26.md)
-		* Do now
-			* [Boolean Practice](do_now_26.md)
-		* Labs
-			* [What Goes Up...](lab_26.md)
-	* Quiz
-		* [Loops](quiz_2.md)
-	* [Pong Project](lesson_27.md)
-		* Do Now
-			* [Bouncing Ball](do_now_27.md)
-		* Projects
-			* [Pong](project_2.md)
-		* [Pong Alternative](project_2_alternative.md)
-* [Customization](unit_3.md)
-	* [Abstraction and Friends](lesson_31.md)
-	* [Procedures](lesson_32.md)
-		* Do now
-			* [Drawing Squares](do_now_32.md)
-		* Labs
-			* [Drawing Shapes \(Again\)](lab_32.md)
-	* [Customization 1](lesson_33.md)
-		* Do now
-			* [Jumping](do_now_33.md)
-		* Labs
-			* [Let Me Check My Calendar](lab_33.md)
-	* [Customization II](lesson_34.md)
-		* Do now
-			* [Practice using Arguments](do_now_34.md)
-		* Labs
-			* [If My Calculations Are Correct...](lab_34.md)
-	* Quiz
-		* [Customization](quiz_3.md)
-	* [Platform Game Project](lesson_35.md)
-			* Projects
-				* [Platform Game](project_3.md)
-				* [Platform Game \(Easy\)](project_3_platform_game_easy.md)
-* [Lists](unit_4.md)
-	* [Intro to Lists](lesson_41.md)
-	* [Static Lists](lesson_42.md)
-		* Do now
-			* [Letters of a Word](do_now_42.md)
-		* Labs
-			* [You Talkin' to Me?](lab_42.md)
-	* [List Practice I](lesson_43.md)
-		* Do now
-			* [Quote of the Day](do_now_43.md)
-		* Labs
-			* [Guess Who](lab_43.md)
-	* [List Practice II](lesson_44.md)
-		* Do now
-			* [Traversing List ](do_now_44.md)
-		* Labs
-			* [Number Cruncher](lab_44.md)
-	* [Sequential Search](lesson_45.md)
-		* Do now
-			* [List Tracing ](do_now_45.md)
-		* Labs
-			* [It's Around Here Somewhere](lab_45.md)
-	* [Lists](quiz_4.md)
-	* [Guess My Word Project](lesson_46.md)
-		* Do now
-			* [Do Now 4.6: Gentle Guess My Word](do_now_46.md)
-		* Labs
-		* [Guess My Word](project_4.md)
-* [Cloning](unit_5.md)
-	* [Intro to Cloning](lesson_51.md)
-		* Labs
-			* [Connect the Dots](lab_51.md)
-	* [Cloning Sprites](lesson_52.md)
-		* Do now
-			* [Star Wars Troopers ](do_now_52.md)
-		* Labs
-			* [Lots of Balls](lab_52.md)
-	* [Communicating with Clones](lesson_53.md)
-		* Do now
-			* [Star Wars Troopers using Cloning](do_now_53.md)
-		* Labs
-			* [Fewer Balls](lab_53.md)
-	* Quiz
-		* [Cloning](quiz_5.md)
-	* [Space Invaders Project](lesson_54.md)
-		* Projects
-			* [Space Invaders](project_5.md)
-* [Final Project](unit_6.md)
-	* [Design Basics](lesson_61.md)
-	* [Research and Ideate](lesson_62.md)
-	* [Defining Requirements](lesson_63.md)
-	* [Building a Plan](lesson_64.md)
-	* [Project Implementation](lesson_65.md)
-	* [Final Project](project_6.md)
+* [Introduction]()
+  * [About this course](introduction/README.md)
+  * [The First Day](introduction/lesson_the_first_day.md)
+  * [Algorithms](introduction/lesson_algorithms.md)
+  * [Programming Languages](introduction/lesson_programming_languages.md)
+  * [SNAP Self-Portrait](introduction/lesson_snap_self_portrait.md)
+    * Do now
+      * [I Am ...](introduction/donow_i_am.md)
+    * Labs
+      * [Getting to Know You](introduction/lab_getting_to_know_you.md)
+* [Getting Started with Snap!](getting_started_with_snap/README.md)
+  * [Welcome to Snap!](getting_started_with_snap/lesson_welcome_to_snap.md)
+    * Labs
+      * [Welcome to Snap!](getting_started_with_snap/lab_welcome_to_snap.md)
+  * [SNAP Continued](getting_started_with_snap/lesson_snap_continued.md)
+  * [Building Blocks](getting_started_with_snap/lesson_building_blocks.md)
+    * Do now
+      * [Tracing and Debugging](getting_started_with_snap/donow_tracing_and_debugging.md)
+    * Labs
+      * [SNAP Scavenger Hunt](getting_started_with_snap/lab_snap_scavenger_hunt.md)
+  * [Drawing Shapes](getting_started_with_snap/lesson_drawing_shapes.md)
+    * Do now
+      * [Drawing a Triangle](getting_started_with_snap/donow_drawing_a_triangle.md)
+    * Labs
+      * [Squares, Triangles, and Stars, Oh My!](getting_started_with_snap/lab_squares_triangles_and_stars_oh_my.md)
+  * [Animation](getting_started_with_snap/lesson_animation.md)
+    * Do now
+      * [Sprite Communication](getting_started_with_snap/donow_sprite_communication.md)
+    * Labs
+      * [Sprites in Action](getting_started_with_snap/lab_sprites_in_action.md)
+  * Quiz
+    * [Getting started with Snap!](getting_started_with_snap/quiz.md)
+  * [Storytelling](getting_started_with_snap/lesson_storytelling.md)
+    * Do now
+      * [Knock Knock](getting_started_with_snap/donow_knock_knock.md)
+      * [Click Event Interaction](getting_started_with_snap/donow_152.md)
+      * [Movement Interaction](getting_started_with_snap/donow_153.md)
+    * Projects
+      * [Animated Storytelling](getting_started_with_snap/project_animated_storytelling.md)
+* [Loops](loops/README.md)
+  * [Loops](loops/lesson_loops.md)
+    * Do now
+      * [Introduction to Loops](loops/donow_introduction_to_loops.md)
+    * Labs
+      * [Squares and Triangles Redux](loops/lab_squares_and_triangles_redux.md)
+  * [Nested Loops](loops/lesson_nested_loops.md)
+    * Do Now
+      * [Debugging Loops](loops/donow_debugging_loops.md)
+    * Labs
+      * [Yellow Brick Road](loops/lab_yellow_brick_road.md)
+  * [Inputs and Conditionals](loops/lesson_input_and_conditionals.md)
+    * Do now
+      * [Stairs](loops/donow_stairs.md)
+    * Labs
+      * [What Shape is That?](loops/lab_what_shape_is_that.md)
+  * [Variables](loops/lesson_variables.md)
+    * Do now
+      * [Debugging](loops/donow_debugging.md)
+    * Labs
+      * [Guessing Game](loops/lab_guessing_game.md)
+  * [Boole in the House](loops/lesson_boole_in_the_house.md)
+    * Do now
+      * [Variables Practice](loops/donow_variables_practice.md)
+    * Labs
+      * [Triangles of All Kinds](loops/lab_triangles_of_all_kinds.md)
+  * [Combining Loops and Conditionals](loops/lesson_combining_loops_and_conditionals.md)
+    * Do now
+      * [Boolean Practice](loops/donow_boolean_pratice.md)
+    * Labs
+      * [What Goes Up...](loops/lab_what_goes_up.md)
+  * Quiz
+    * [Loops](loops/quiz.md)
+  * [Pong](loops/lesson_pong.md)
+    * Do Now
+      * [Bouncing Ball](loops/donow_bouncing_ball.md)
+    * Projects
+      * [Pong](loops/project_pong.md)
+      * [Pong Alternative](loops/project_alternative.md)
+* [Customization](customization/README.md)
+  * [Abstraction and Friends](customization/lesson_abstractions_and_friends.md)
+  * [Procedures](customization/lesson_procedures.md)
+    * Do now
+      * [Drawing Squares](customization/donow_drawing_squares.md)
+    * Labs
+      * [Drawing Shapes ](customization/lab_drawing_shapes.md)
+  * [Customization - Part 1](customization/lesson_customization_part_1.md)
+    * Do now
+      * [Jumping](customization/donow_jumping.md)
+    * Labs
+      * [Let Me Check My Calendar](customization/lab_let_me_check_my_calendar.md)
+  * [Customization - Part 2](customization/lesson_customization_part_2.md)
+    * Do now
+      * [Practice using Arguments](customization/donow_practice_using_arguments.md)
+    * Labs
+      * [If My Calculations Are Correct...](customization/lab_if_my_calculations_are_correct.md)
+  * Quiz
+    * [Customization](customization/quiz.md)
+  * [Platform Game](customization/lesson_platform_game.md)
+    * [Platform Game](customization/project_platform_game.md)
+    * [Platform Game - Easy](customization/project_platform_game_easy.md)
+* [Lists](lists/README.md)
+  * [Intro to Lists](lists/lesson_intro_to_lists.md)
+  * [Static Lists](lists/lesson_static_lists.md)
+    * Do now
+      * [Letters of a Word](lists/donow_letters_of_a_word.md)
+    * Labs
+      * [You Talkin' to Me?](lists/lab_you_talkin_to_me.md)
+  * [List Practice - Part 1](lists/lesson_list_practice_part_1.md)
+    * Do now
+      * [Quote of the Day](lists/donow_quote_of_the_day.md)
+    * Labs
+      * [Guess Who](lists/lab_guess_who.md)
+  * [List Practice - Part 2](lists/lesson_list_practice_part_2.md)
+    * Do now
+      * [Traversing List ](lists/donow_traversing_list.md)
+    * Labs
+      * [Number Cruncher](lists/lab_number_cruncher.md)
+  * [Sequential Search](lists/lesson_sequential_search.md)
+    * Do now
+      * [List Tracing ](lists/donow_list_tracing.md)
+    * Labs
+      * [It's Around Here Somewhere](lists/lab_its_around_here_somewhere.md)
+  * [Lists](lists/quiz.md)
+  * [Guess My Word](lists/lesson_guess_my_word.md)
+    * Do now
+      * [Gentle Guess My Word](lists/donow_gentle_guess_my_word.md)
+    * Projects
+    * [Guess My Word](lists/project_guess_my_word.md)
+* [Cloning](cloning/README.md)
+  * [Introduction to Cloning](cloning/lesson_introduction_to_cloning.md)
+    * Labs
+      * [Connect the Dots](cloning/lab_connect_the_dots.md)
+  * [Cloning Sprites](cloning/lesson_cloning_sprites.md)
+    * Do now
+      * [Star Wars Troopers](cloning/donow_star_wars_troopers.md)
+    * Labs
+      * [Lots of Balls](cloning/lab_lots_of_balls.md)
+  * [Communicating with Clones](cloning/lesson_communicating_with_clones.md)
+    * Do now
+      * [Star Wars Troopers using Cloning](cloning/donow_star_wars_troopers_using_cloning.md)
+    * Labs
+      * [Fewer Balls](cloning/lab_fewer_balls.md)
+  * Quiz
+    * [Cloning](cloning/quiz.md)
+  * [Space Invaders](cloning/lesson_space_invaders.md)
+    * Projects
+      * [Space Invaders](cloning/project.md)
+* [Final Project](final_project/README.md)
+  * [Design Basics](final_project/lesson_design_basics.md)
+  * [Research and Ideate](final_project/lesson_research_and_ideate.md)
+  * [Defining Requirements](final_project/lesson_defining_requirements.md)
+  * [Building a Plan](final_project/lesson_building_a_plan.md)
+  * [Project Implementation](final_project/lesson_project_implementation.md)
+  * [Final Project](final_project/project.md)
 * [Glossary](glossary.md)
 * References
-	* How to's
-		* [Create Snap Account](how-to/create-account.md)
-		* [Save & Share Projects](how-to/save-and-share-projects.md)
-		* [Snap Window](how-to/window.md)
-		* [Sprites](how-to/sprites.md)
-		* [Scripts](how-to/scripts.md)
-		* [Movement & Position](how-to/movement-and-position.md)
-		* [Drawing](how-to/drawing.md)
-	* [Accessibility](references/accessibility/README.md)
-	* [Blocks](references/blocks/README.md)
-		* [Motion](references/blocks/motion.md)
-		* [Looks](references/blocks/looks.md)
-		* [Sound](references/blocks/sound.md)
-		* [Pen](references/blocks/pen.md)
-		* [Control](references/blocks/control.md)
-		* [Sensing](references/blocks/sensing.md)
-		* [Operators](references/blocks/operators.md)
-		* [Variables](references/blocks/variables.md)
+  * How to's
+    * [Create Snap Account](references/how-to/create-account.md)
+    * [Save & Share Projects](references/how-to/save-and-share-projects.md)
+    * [Snap Window](references/how-to/window.md)
+    * [Sprites](references/how-to/sprites.md)
+    * [Scripts](references/how-to/scripts.md)
+    * [Movement & Position](references/how-to/movement-and-position.md)
+    * [Drawing](references/how-to/drawing.md)
+  * [Accessibility](references/accessibility/README.md)
+  * [Blocks](references/blocks/README.md)
+    * [Motion](references/blocks/motion.md)
+    * [Looks](references/blocks/looks.md)
+    * [Sound](references/blocks/sound.md)
+    * [Pen](references/blocks/pen.md)
+    * [Control](references/blocks/control.md)
+    * [Sensing](references/blocks/sensing.md)
+    * [Operators](references/blocks/operators.md)
+    * [Variables](references/blocks/variables.md)
