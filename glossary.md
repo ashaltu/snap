@@ -3,6 +3,7 @@
 ## A
 
 ## B
+
 ### Backgrounds
 Pictures that fill the entire stage area. 
 
@@ -13,6 +14,7 @@ Puzzle-piece shapes that are used to create code in snap!
 
 
 ## C
+
 ### C-shaped blocks
 * accepts scripts
 * typically found in the [control palette](references/snap-palettes/control.md)
@@ -40,6 +42,7 @@ Most command blocks have a brick shape. Each command block corresponds to an act
 ## I
 
 ## J
+
 ### Jukebox
 A collection of sounds that can be applied to a sprite costume. 
 
