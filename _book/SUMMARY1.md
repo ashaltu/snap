@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [Introduction](README.md)
     * [The First Day](lesson_01.md)
@@ -13,7 +13,7 @@
     * [Welcome to SNAP](lesson_11.md)
       * Labs
         * [Welcome to SNAP!](lab_11.md)
-    * [SNAP Continued](lesson_11.md)
+    * [Welcome to SNAP (Continued lab)](lesson_11.md)
     * [Building Blocks](lesson_12.md)
       * Do now
         * [Tracing and Debugging](do_now_12.md)
