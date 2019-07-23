@@ -8,7 +8,9 @@ Pictures that fill the entire stage area.
 
 ### Block
 Puzzle-piece shapes that are used to create code in snap!
-**Assignments**: [Lab 2.4 - Guessing Game](glossaryv2.md), [Lab 2.5 - Triangles of All Kinds](glossaryv2.md)
+
+**References:** [Blocks](), [Block categories]() | **Lessons:** [Lesson name](), [Lesson name]()
+
 
 ## C
 ### C-shaped blocks
