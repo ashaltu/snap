@@ -34,10 +34,10 @@
   * [Storytelling](snap/lesson_storytelling.md)
     * Do now
       * [Knock Knock](snap/donow_knock_knock.md)
-      * [Click Event Interaction](snap/donow_152.md)
-      * [Movement Interaction](snap/donow_153.md)
-    * Projects
-      * [Animated Storytelling](snap/project_animated_storytelling.md)
+      * [Click Event Interaction](snap/donow_click_event_interaction.md)
+      * [Movement Interaction](snap/donow_movement_interaction.md)
+  * Project
+    * [Animated Storytelling](snap/project_animated_storytelling.md)
 * [Loops](loops/README.md)
   * [Loops](loops/lesson_loops.md)
     * Do now
@@ -74,9 +74,9 @@
   * [Pong](loops/lesson_pong.md)
     * Do Now
       * [Bouncing Ball](loops/donow_bouncing_ball.md)
-    * Projects
-      * [Pong](loops/project_pong.md)
-      * [Pong Alternative](loops/project_alternative.md)
+  * Project
+    * [Pong](loops/project_pong.md)
+    * [Pong - Alternative](loops/project_pong_alternative.md)
 * [Customization](customization/README.md)
   * [Abstraction and Friends](customization/lesson_abstractions_and_friends.md)
   * [Procedures](customization/lesson_procedures.md)
@@ -96,9 +96,9 @@
       * [If My Calculations Are Correct...](customization/lab_if_my_calculations_are_correct.md)
   * Quiz
     * [Customization](customization/quiz.md)
-  * [Platform Game](customization/lesson_platform_game.md)
+  * Project
     * [Platform Game](customization/project_platform_game.md)
-    * [Platform Game - Easy](customization/project_platform_game_easy.md)
+    * [Platform Game - Alternative](customization/project_platform_game_alternative.md)
 * [Lists](lists/README.md)
   * [Intro to Lists](lists/lesson_intro_to_lists.md)
   * [Static Lists](lists/lesson_static_lists.md)
@@ -125,7 +125,7 @@
   * [Guess My Word](lists/lesson_guess_my_word.md)
     * Do now
       * [Gentle Guess My Word](lists/donow_gentle_guess_my_word.md)
-    * Projects
+  * Project
     * [Guess My Word](lists/project_guess_my_word.md)
 * [Cloning](cloning/README.md)
   * [Introduction to Cloning](cloning/lesson_introduction_to_cloning.md)
@@ -144,15 +144,15 @@
   * Quiz
     * [Cloning](cloning/quiz.md)
   * [Space Invaders](cloning/lesson_space_invaders.md)
-    * Projects
-      * [Space Invaders](cloning/project.md)
+  * Project
+    * [Space Invaders](cloning/project_space_invaders.md)
 * [Final Project](final_project/README.md)
   * [Design Basics](final_project/lesson_design_basics.md)
   * [Research and Ideate](final_project/lesson_research_and_ideate.md)
   * [Defining Requirements](final_project/lesson_defining_requirements.md)
   * [Building a Plan](final_project/lesson_building_a_plan.md)
   * [Project Implementation](final_project/lesson_project_implementation.md)
-  * [Final Project](final_project/project.md)
+  * [Project](final_project/project.md)
 * [Glossary](glossary.md)
 * References
   * How to's

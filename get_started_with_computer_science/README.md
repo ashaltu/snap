@@ -1,1 +1,1 @@
-# The first day
+# Getting started with computer science
