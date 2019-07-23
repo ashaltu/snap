@@ -9,7 +9,7 @@
 			* [I Am ...](do_now_04.md)
 		* Labs
 			* [Getting to Know You](lab_04.md)
-[Getting Started with Snap]()
+* [Getting Started with Snap](unit_1.md)
 	* [Welcome to SNAP](lesson_11.md)
 		* Labs
 			* [Welcome to SNAP!](lab_11.md)
