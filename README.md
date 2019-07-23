@@ -1,10 +1,13 @@
-# CS Beginnings
+# Introduction to Computer Science
 
-## Welcome
+## Lessons
 
-Welcome to the Snap Documentation! Your Computer Science beginnings start here.
+## Labs and Projects
 
-### Important links
+## Snap!
+In this course you will use [Snap!](https://snap.berkeley.edu/). Snap! is a visual programming language designed to allow students to focus on concepts and skills rather than syntax when learning to program.
+
+## Important links
 
 * [Intro to CS Units](https://tealsk12.gitbook.io/intro-cs)
 * [Snap! Build Your Own Blocks 5.0.5](https://snap.berkeley.edu/snapsource/snap.html)

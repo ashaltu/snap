@@ -1,14 +1,14 @@
 # Table of contents
 
-* [About this course](about_this_course/README.md)
-  * [The First Day](about_this_course/lesson_the_first_day.md)
-  * [Algorithms](about_this_course/lesson_algorithms.md)
-  * [Programming Languages](about_this_course/lesson_programming_languages.md)
-  * [SNAP Self-Portrait](about_this_course/lesson_snap_self_portrait.md)
+* [Get started](get_started_with_computer_science/README.md)
+  * [The First Day](get_started_with_computer_science/lesson_the_first_day.md)
+  * [Algorithms](get_started_with_computer_science/lesson_algorithms.md)
+  * [Programming Languages](get_started_with_computer_science/lesson_programming_languages.md)
+  * [SNAP Self-Portrait](get_started_with_computer_science/lesson_snap_self_portrait.md)
     * Do now
-      * [I Am ...](about_this_course/donow_i_am.md)
+      * [I Am ...](get_started_with_computer_science/donow_i_am.md)
     * Labs
-      * [Getting to Know You](about_this_course/lab_getting_to_know_you.md)
+      * [Getting to Know You](get_started_with_computer_science/lab_getting_to_know_you.md)
 * [Snap!](snap/README.md)
   * [Getting started with Snap!](snap/lesson_getting_started_with_snap.md)
     * Labs
