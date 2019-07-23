@@ -1,44 +1,43 @@
 # Table of contents
 
-* [Introduction]()
-  * [About this course](introduction/README.md)
-  * [The First Day](introduction/lesson_the_first_day.md)
-  * [Algorithms](introduction/lesson_algorithms.md)
-  * [Programming Languages](introduction/lesson_programming_languages.md)
-  * [SNAP Self-Portrait](introduction/lesson_snap_self_portrait.md)
+* [About this course](about_this_course/README.md)
+  * [The First Day](about_this_course/lesson_the_first_day.md)
+  * [Algorithms](about_this_course/lesson_algorithms.md)
+  * [Programming Languages](about_this_course/lesson_programming_languages.md)
+  * [SNAP Self-Portrait](about_this_course/lesson_snap_self_portrait.md)
     * Do now
-      * [I Am ...](introduction/donow_i_am.md)
+      * [I Am ...](about_this_course/donow_i_am.md)
     * Labs
-      * [Getting to Know You](introduction/lab_getting_to_know_you.md)
-* [Getting Started with Snap!](getting_started_with_snap/README.md)
-  * [Welcome to Snap!](getting_started_with_snap/lesson_welcome_to_snap.md)
+      * [Getting to Know You](about_this_course/lab_getting_to_know_you.md)
+* [Snap!](snap/README.md)
+  * [Getting started with Snap!](snap/lesson_getting_started_with_snap.md)
     * Labs
-      * [Welcome to Snap!](getting_started_with_snap/lab_welcome_to_snap.md)
-  * [SNAP Continued](getting_started_with_snap/lesson_snap_continued.md)
-  * [Building Blocks](getting_started_with_snap/lesson_building_blocks.md)
+      * [Welcome to Snap! - Part 1](snap/lab_welcome_to_snap_part_1.md)
+      * [Welcome to Snap! - Part 2](snap/lab_welcome_to_snap_part_2.md)
+  * [Building Blocks](snap/lesson_building_blocks.md)
     * Do now
-      * [Tracing and Debugging](getting_started_with_snap/donow_tracing_and_debugging.md)
+      * [Tracing and Debugging](snap/donow_tracing_and_debugging.md)
     * Labs
-      * [SNAP Scavenger Hunt](getting_started_with_snap/lab_snap_scavenger_hunt.md)
-  * [Drawing Shapes](getting_started_with_snap/lesson_drawing_shapes.md)
+      * [SNAP Scavenger Hunt](snap/lab_snap_scavenger_hunt.md)
+  * [Drawing Shapes](snap/lesson_drawing_shapes.md)
     * Do now
-      * [Drawing a Triangle](getting_started_with_snap/donow_drawing_a_triangle.md)
+      * [Drawing a Triangle](snap/donow_drawing_a_triangle.md)
     * Labs
-      * [Squares, Triangles, and Stars, Oh My!](getting_started_with_snap/lab_squares_triangles_and_stars_oh_my.md)
-  * [Animation](getting_started_with_snap/lesson_animation.md)
+      * [Squares, Triangles, and Stars, Oh My!](snap/lab_squares_triangles_and_stars_oh_my.md)
+  * [Animation](snap/lesson_animation.md)
     * Do now
-      * [Sprite Communication](getting_started_with_snap/donow_sprite_communication.md)
+      * [Sprite Communication](snap/donow_sprite_communication.md)
     * Labs
-      * [Sprites in Action](getting_started_with_snap/lab_sprites_in_action.md)
+      * [Sprites in Action](snap/lab_sprites_in_action.md)
   * Quiz
-    * [Getting started with Snap!](getting_started_with_snap/quiz.md)
-  * [Storytelling](getting_started_with_snap/lesson_storytelling.md)
+    * [Getting started with Snap!](snap/quiz.md)
+  * [Storytelling](snap/lesson_storytelling.md)
     * Do now
-      * [Knock Knock](getting_started_with_snap/donow_knock_knock.md)
-      * [Click Event Interaction](getting_started_with_snap/donow_152.md)
-      * [Movement Interaction](getting_started_with_snap/donow_153.md)
+      * [Knock Knock](snap/donow_knock_knock.md)
+      * [Click Event Interaction](snap/donow_152.md)
+      * [Movement Interaction](snap/donow_153.md)
     * Projects
-      * [Animated Storytelling](getting_started_with_snap/project_animated_storytelling.md)
+      * [Animated Storytelling](snap/project_animated_storytelling.md)
 * [Loops](loops/README.md)
   * [Loops](loops/lesson_loops.md)
     * Do now
