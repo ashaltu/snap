@@ -1,5 +1,4 @@
-Lab
-# Getting To Know You
+# Lab
 In this lab, you will explore SNAP and create a simple "self-portrait" program to introduce yourself to your instructors and classmates.
 
 ## Part 1 - Exploring SNAP
