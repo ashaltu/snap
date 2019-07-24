@@ -4,7 +4,7 @@
 
  
 
-### Block categories 
+### Block Categories 
 
 As you saw in Lab 1.1, all of the [blocks](onenote:Glossary.one#Glossary&section-id={ba801250-2f51-4298-b46b-61766397c088}&page-id={2e1d37b1-066f-4d94-a96a-1f204a6a23d6}&end) in Snap are organized into categories.  Each category is a different color. You can access each category by clicking on the tabs at the top left of the [Snap Window](onenote:#Snap%20Window&section-id={bd944216-ae14-4da7-9e9c-e8ddfd7e5463}&page-id={e510ce73-fecb-46b8-96ba-617f262f66a8}&end).  
 
