@@ -1,5 +1,5 @@
 # Sensing
-The sensing category provides blocks...
+Blocks in this category deal with the current conditions of sprites, the mouse, and the stage. For example, they can detect when sprites are touching, when one color is touching another or the current x and y position of the mouse. 
 
 ## Touching an object
 ![The touching an object block shape](./assets/block_touchinganobject.png)
