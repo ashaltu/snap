@@ -1,6 +1,9 @@
 # Control
 Blocks in this category organize the flow of scripts. They dictate when scripts start and provide functions to loop over blocks or only execute blocks in certain cases. 
 
+## Wait 
+![The wait block shape](./assets/block_wait.png)
+
 | Example | Definition |
 |:- |:- |
 | ![Alt text](./assets/block_wait_example.png) |  |
