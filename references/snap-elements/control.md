@@ -1,4 +1,5 @@
 # Control
+Blocks in this category organize the flow of scripts. They dictate when scripts start and provide functions to loop over blocks or only execute blocks in certain cases. 
 
 ## If/Else
 ![The IF/ELSE block shape](./assets/block-ifelse.png)
