@@ -4,11 +4,11 @@
 
  
 
-# Creating a Snap account 
+### Creating a Snap account 
 
 Before you start your first lab assignment, be sure to create a Snap account. To set up a new account, find the cloud-shaped button in the top toolbar in the upper left corner of the Snap window: 
 
-t 
+ 
  
 
 Click the cloud-shaped button, select the "sign up" option in the menu, and follow the instructions there. You will need to check your email after creating your account to verify your account. (Tip: Check your junk or spam folder if you don't see the email in your inbox). 
@@ -17,7 +17,7 @@ have' read and
 totheTermSOf Service 
  
 
-# Saving your project to the cloud 
+### Saving your project to the cloud 
 
 Once you have logged into your Snap! account, you can save your project to the cloud. Click on the File icon [insert icon] in the Tool Bar and then choose the "Save as..." option. 
 
@@ -47,7 +47,7 @@ See the complete [Snap manual](https://snap.berkeley.edu/SnapManual.pdf) if you 
 
  
 
-# Sharing your project 
+### Sharing your project 
 
 Once you save your project, you can share it with a friend or teacher. Click on the File icon in the Tool Bar (insert small image of icon) and then choose the "Save as..." Option. 
 
