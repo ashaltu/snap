@@ -1,13 +1,6 @@
 # Control
 Blocks in this category organize the flow of scripts. They dictate when scripts start and provide functions to loop over blocks or only execute blocks in certain cases. 
 
-
-
-| Parameter | Visual | Definition |
-|:- |:- |:- |
-| Condition | ![Alt text](./assets/block-ifelse-if.png) |  |
-| [Command slot]() | ![Alt text](./assets/block-ifelse-action.png) | The open space a C or E shaped block that holds command block or report block |
-
 | Example | Definition |
 |:- |:- |
 | ![Alt text](./assets/block_wait_example.png) |  |
@@ -16,13 +9,6 @@ Blocks in this category organize the flow of scripts. They dictate when scripts 
 
 ## Wait until
 ![The wait until block shape](./assets/block_waituntil.png)
-
-
-
-| Parameter | Visual | Definition |
-|:- |:- |:- |
-| Condition | ![Alt text](./assets/block-ifelse-if.png) |  |
-| [Command slot]() | ![Alt text](./assets/block-ifelse-action.png) | The open space a C or E shaped block that holds command block or report block |
 
 | Example | Definition |
 |:- |:- |
@@ -33,13 +19,6 @@ Blocks in this category organize the flow of scripts. They dictate when scripts 
 ## Forever
 ![The forever block shape](./assets/block_forever.png)
 
-
-
-| Parameter | Visual | Definition |
-|:- |:- |:- |
-| Condition | ![Alt text](./assets/block-ifelse-if.png) |  |
-| [Command slot]() | ![Alt text](./assets/block-ifelse-action.png) | The open space a C or E shaped block that holds command block or report block |
-
 | Example | Definition |
 |:- |:- |
 | ![Alt text](./assets/block_forever_example.png) |  |
@@ -48,13 +27,6 @@ Blocks in this category organize the flow of scripts. They dictate when scripts 
 
 ## Repeat
 ![The repeat block shape](./assets/block_repeat.png)
-
-
-
-| Parameter | Visual | Definition |
-|:- |:- |:- |
-| Condition | ![Alt text](./assets/block-ifelse-if.png) |  |
-| [Command slot]() | ![Alt text](./assets/block-ifelse-action.png) | The open space a C or E shaped block that holds command block or report block |
 
 | Example | Definition |
 |:- |:- |
@@ -231,7 +203,3 @@ Blocks in this category organize the flow of scripts. They dictate when scripts 
 |:- |:- |
 | ![Alt text](./assets/block_pauseall_example.png) |  |
 
-<<<<<<< HEAD
-=======
-**Related:** [Turn counter clockwise]() | **Lessons:** [a really long lesson name](), [another really long lesson name]()
->>>>>>> 0bdc7e0121b2094fc55447f69fc604fbcf27006b
