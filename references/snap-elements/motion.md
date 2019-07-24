@@ -1,5 +1,7 @@
 #Motion
-The motion category provides blocks...
+Blocks in this category deal with the movement of sprites. They can be used to change the x and y position of the sprite as well as what direction the sprite is facing. Note: the Stage does not have any Motion blocks since it is a still object. 
+
+
 
 ## Move
 ![The move block shape](../assets/block_move.png)
