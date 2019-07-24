@@ -1,5 +1,6 @@
-Lab
 # Squares and Triangles and Stars, Oh, My!
+
+## Lab
 
 In this lab, you will write your first SNAP programs to draw some simple shapes on the stage.
 
