@@ -8,7 +8,7 @@ Programs in most languages use only letters (and punctuation), but SNAP is diffe
 
 > The following is a program in SNAP!: 
 > 
-> ![](./assets/welcometosnap_lab_simpleprogram.png)
+> ![](./assets/welcometosnap-lab-simpleprogram.png)
 > 
 > **Can you guess what it might do? (Write your guess below)**
 > 
@@ -20,7 +20,7 @@ SNAP is different than many other languages in another way— you run it in a we
 
 In order to save your programs, the first thing you'll need to do is make an account. In the SNAP browser window, Find the cloud-shaped button in the top toolbar on the upper left corner of the window:
 
-![](./assets/welcometosnap_lab_cloudbutton.png)
+![](./assets/welcometosnap-lab-cloudbutton.png)
 
 Click it, select the "sign up" option in the menu, and follow the instructions there. You will need to check your email after creating your account to get your initial password.
 
@@ -171,7 +171,7 @@ You also will want to show the direction and x and y position of the sprite. In 
 > 
 > 7.1) _What do you think the script above will do?_
 > 
-> Hint: ![mouse x](./assets/welcometosnap_lab_mousex.png) and ![./assets/welcometosnap_lab_mouse y](mousey.png) are reporters in the Sensing palette; they tell you where the mouse is pointing. 
+> Hint: ![mouse x](./assets/welcometosnap_lab_mousex.png) and ![mouse y](./assets/welcometosnap_lab_mousey.png) are reporters in the Sensing palette; they tell you where the mouse is pointing. 
 
 > 
 > Copy the code into SNAP, and click on the `forever` block to run it.

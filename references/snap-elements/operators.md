@@ -1,5 +1,5 @@
 # Operators
-The operators category provides blocks...
+Blocks in this category deal with mathematical functions. These blocks include operations like addition and multiplication, true or false expressions and combining or separating words.  
 
 ## Add
 ![The add block shape](./assets/block_add.png)

@@ -1,5 +1,5 @@
 # Variables
-The variables category provides blocks...
+Blocks in this category store data or are used to access stored data. Data can be stored as individual variables or lists. 
 
 ## X
 ![The X block shape](./assets/block_x.png)

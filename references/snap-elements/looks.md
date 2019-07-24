@@ -1,5 +1,5 @@
 # Looks
-Blocks in this category deal with the appearance of sprites and the stage. Examples include showing or hiding a sprite, making sprites talk, and switching costumes.
+Blocks in this category deal with the appearance of sprites and the stage. Examples include showing or hiding a sprite, making sprites talk, and switching costumes. 
 
 ## Switch to costume
 ![The switch to costume block shape](./assets/block_switchtocostume.png)
