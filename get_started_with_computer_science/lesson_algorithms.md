@@ -5,15 +5,15 @@ You will learn a lot of new vocabulary terms in this class.  As a reminder, you 
 
  
 
-* Computer 
+* [Computer](https://snap.ashaltu.com/glossary#computer)
 
-* Computer science 
+* [Computer science](https://snap.ashaltu.com/glossary#computer-science)
 
-* Algorithm 
+* [Algorithm](https://snap.ashaltu.com/glossary#algorithm)
 
-* Program 
+* [Program](https://snap.ashaltu.com/glossary#program)
 
-* Programming language 
+* [Programming language](https://snap.ashaltu.com/glossary#programming-language)
 
  
 
