@@ -7,6 +7,11 @@ Removing the specifics that are not relevant in a given context.
 
 **Lessons:** [Customization](customization/README.md)
 
+### Algorithm
+A set of instructions designed to perform a specific task. This can be a simple process, such as multiplying two numbers, or a complex operation, such as playing a compressed video file.
+
+**Lessons:** [Algorithm](https://snap.ashaltu.com/get_started_with_computer_science/lesson_algorithms#lesson)
+
 ### Argument 
 Any area in a block that accepts user input, or another block. It could be a Boolean Block or a value placed inside of a variable or block. The value that is "passed into" a parameter of a custom block.
 
@@ -35,15 +40,25 @@ Boolean expressions that can be nested.
 
 ## C
 
+### Cloning
+A feature that allows a sprite to create a clone, or semi-duplicate, of itself, while the project is running. Clones of a sprite will be the same as the original or parent sprite but as a separate instance. Clones inherit the parent's scripts, costumes, sounds, and properties, yet they can then be modified.
+
+**Lessons:** [Cloning](cloning/README.md)
+
 ### Command Block
 Puzzle-piece shaped block that executes a command (it causes an effect).
 
 **Lessons:** [Customization](customization/README.md)
 
-### Cloning
-A feature that allows a sprite to create a clone, or semi-duplicate, of itself, while the project is running. Clones of a sprite will be the same as the original or parent sprite but as a separate instance. Clones inherit the parent's scripts, costumes, sounds, and properties, yet they can then be modified.
+### Computer
+A machine which can be instructed to accept, process, store and output data
 
-**Lessons:** [Cloning](cloning/README.md)
+**Lessons:** [Algorithm](https://snap.ashaltu.com/get_started_with_computer_science/lesson_algorithms#lesson)
+
+### Computer Science
+The science that deals with the theory and methods of processing information in digital computers, the design of computer hardware and software, and the applications of computers.
+
+**Lessons:** [Algorithm](https://snap.ashaltu.com/get_started_with_computer_science/lesson_algorithms#lesson)
 
 ### Conditional 
 A block used to make a choice between executing two different chunks of code."If" statements.
@@ -166,6 +181,16 @@ A hexagonal block that always returns a Boolean value (true or false).
 Breaking a problem down into smaller subtasks, usually to increase readability and/or maintainability, often by applying one of the above concepts.
 
 **Lessons:** [Customization](customization/README.md)
+
+### Program
+A collection of data or computer instructions that tell the computer how to work.
+
+**Lessons:** [Algorithm](https://snap.ashaltu.com/get_started_with_computer_science/lesson_algorithms#lesson)
+
+### Programming Language
+An artificial language used to write instructions that can be translated into machine language and then executed by a computer.
+
+**Lessons:** [Algorithm](https://snap.ashaltu.com/get_started_with_computer_science/lesson_algorithms#lesson)
 
 ### Programming List
 Called an 'array' in most programming languages, this holds lots of values.
