@@ -8,9 +8,9 @@ In this lab, you will use costumes and movement to create simple SNAP animations
 
 1.1) In a SNAP project, click on the file menu, then click costumes.  Import the costumes "dog2-b" and "dog2-c".
 
-![Menu->Costumes](menucostumes.png)
+![Menu->Costumes](./assets/spritesinaction_lab_menucostumes.png)
 
-![Import Costumes](importcostumes.png)
+![Import Costumes](./assets/spritesinaction_lab_importcostumes.png)
 
 1.2) Write a script to make the sprite change costume each time the space bar is pressed. The sprite should switch back and forth between the two costumes.
 

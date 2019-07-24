@@ -10,18 +10,18 @@ In this lab, you will explore the functionality of some common blocks and where 
 
 | Block                                       | Category |
 | ------------------------------------------- | -------- |
-| ![point in direction](pointindirection.png) | _motion_ |
-| ![think](think.png)                         |          |
-| ![play notes](playnotes.png)                |          |
-| ![set pen color](setpencolor.png)           |          |
-| ![glide](glide.png)                         |          |
-| ![repeat](repeat.png)                       |          |
-| ![change pen size](changepensize.png)       |          |
-| ![set effect](seteffect.png)                |          |
-| ![go to x-y](gotox-y.png)                   |          |
-| ![set size](setsize.png)                    |          |
-| ![rest for beats](restforbeats.png)         |          |
-| ![point towards](pointtowards.png)          |.         |
+| ![point in direction](./assets/snapsvangerhunt_lab_pointindirection.png) | _motion_ |
+| ![think](./assets/snapsvangerhunt_lab_think.png)                         |          |
+| ![play notes](./assets/snapsvangerhunt_lab_playnotes.png)                |          |
+| ![set pen color](./assets/snapsvangerhunt_lab_setpencolor.png)           |          |
+| ![glide](./assets/snapsvangerhunt_lab_glide.png)                         |          |
+| ![repeat](./assets/snapsvangerhunt_lab_repeat.png)                       |          |
+| ![change pen size](./assets/snapsvangerhunt_lab_changepensize.png)       |          |
+| ![set effect](./assets/snapsvangerhunt_lab_seteffect.png)                |          |
+| ![go to x-y](./assets/snapsvangerhunt_lab_gotox-y.png)                   |          |
+| ![set size](./assets/snapsvangerhunt_lab_setsize.png)                    |          |
+| ![rest for beats](./assets/snapsvangerhunt_lab_restforbeats.png)         |          |
+| ![point towards](./assets/snapsvangerhunt_lab_pointtowards.png)          |.         |
 
 
 ## 2. What does it do?
@@ -30,18 +30,18 @@ In this lab, you will explore the functionality of some common blocks and where 
 
 | Block                                                                                               | Function                                                                                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![point in direction](pointindirection.png)                                                         | _Changes the direction that the sprite is facing. The argument indicates the number of degrees the sprite turns clockwise from pointing upwards. When the argument is "90", the sprite points right, and so on._ |
-| ![think](think.png)                                                                                 |                                                                                                                                                                                                                  |
-| ![play notes](playnotes.png)                                                                        |                                                                                                                                                                                                                  |
-| ![set pen color](setpencolor.png)                                                                   |                                                                                                                                                                                                                  |
-| ![glide](glide.png)                                                                                 |                                                                                                                                                                                                                  |
-| ![repeat](repeat.png)                                                                               |                                                                                                                                                                                                                  |
-| ![change pen size](changepensize.png)                                                               |                                                                                                                                                                                                                  |
-| ![set effect](seteffect.png)                                                                        |                                                                                                                                                                                                                  |
-| ![go to x-y](gotox-y.png)                                                                           |                                                                                                                                                                                                                  |
-| ![set size](setsize.png)                                                                            |                                                                                                                                                                                                                  |
-| ![rest for beats](restforbeats.png)                                                                 |                                                                                                                                                                                                                  |
-| ![point towards](pointtowards.png)                                                                  |.                                                                                                                                                                                                                |
+| ![point in direction](./assets/snapsvangerhunt_lab_pointindirection.png)                                                         | _Changes the direction that the sprite is facing. The argument indicates the number of degrees the sprite turns clockwise from pointing upwards. When the argument is "90", the sprite points right, and so on._ |
+| ![think](./assets/snapsvangerhunt_lab_think.png)                                                                                 |                                                                                                                                                                                                                  |
+| ![play notes](./assets/snapsvangerhunt_lab_playnotes.png)                                                                        |                                                                                                                                                                                                                  |
+| ![set pen color](./assets/snapsvangerhunt_lab_setpencolor.png)                                                                   |                                                                                                                                                                                                                  |
+| ![glide](./assets/snapsvangerhunt_lab_glide.png)                                                                                 |                                                                                                                                                                                                                  |
+| ![repeat](./assets/snapsvangerhunt_lab_repeat.png)                                                                               |                                                                                                                                                                                                                  |
+| ![change pen size](./assets/snapsvangerhunt_lab_changepensize.png)                                                               |                                                                                                                                                                                                                  |
+| ![set effect](./assets/snapsvangerhunt_lab_seteffect.png)                                                                        |                                                                                                                                                                                                                  |
+| ![go to x-y](./assets/snapsvangerhunt_lab_gotox-y.png)                                                                           |                                                                                                                                                                                                                  |
+| ![set size](./assets/snapsvangerhunt_lab_setsize.png)                                                                            |                                                                                                                                                                                                                  |
+| ![rest for beats](./assets/snapsvangerhunt_lab_restforbeats.png)                                                                 |                                                                                                                                                                                                                  |
+| ![point towards](./assets/snapsvangerhunt_lab_pointtowards.png)                                                                  |.                                                                                                                                                                                                                |
 
 
 

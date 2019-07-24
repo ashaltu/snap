@@ -14,11 +14,11 @@ and then choosing the "**Login**..." option.
 
 Once you have logged in to your Snap account, you can save your project to the cloud. Click on the **File icon** in the Tool Bar and then choose the "**Save as**..." option. 
 
-![](../.gitbook/assets/saveas.png)
+![](./assets/saveas.png)
 
 You will see a window that looks like this.: 
 
-![](../.gitbook/assets/savewindow.png)
+![](./assets/savewindow.png)
 
 Type a project name in the empty space at top of the window. Then, click the "**Save**" button at the bottom of the window.  
 
@@ -32,15 +32,15 @@ See the complete [Snap manual](https://snap.berkeley.edu/SnapManual.pdf) if you 
 
 Once you save your project, you can share it with a friend or teacher. Click on the File icon in the Tool Bar and then choose "**Save as**..." 
 
-![](../.gitbook/assets/saveas.png)
+![](./assets/saveas.png)
 
 Highlight the name of the project you want to share and then click "**Share**." 
 
-![Make sure to Highlight your project before hitting &quot;Share&quot;](../.gitbook/assets/share.png)
+![Make sure to Highlight your project before hitting &quot;Share&quot;](./assets/share.png)
 
 You will then be asked if you are sure you want to share your project. Be sure to click "**Yes**."
 
 Your project should now have a unique URL that includes your Snap username and the name of your project. You can copy and paste the URL to share it with your friends or teacher.  
 
-![Share this URL](../.gitbook/assets/projecturl.png)
+![Share this URL](./assets/projecturl.png)
 
