@@ -1,6 +1,4 @@
-Do now
-# I am...
-
+## Do now
 How would you fill in the following: I am ______?
 
 This could be answered in many ways:
