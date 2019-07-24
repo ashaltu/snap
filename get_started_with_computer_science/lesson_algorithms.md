@@ -1,7 +1,7 @@
 # Algorithms 
 
 ## Lesson 
-You will learn a lot of new vocabulary terms in this class.  As a reminder, you can look up the definitions of important computer science terms in the [glossary](link to glossary) of this workbook. Here are some important vocabulary terms for this lesson: 
+You will learn a lot of new vocabulary terms in this class.  As a reminder, you can look up the definitions of important computer science terms in the [glossary](https://snap.ashaltu.com/glossary) of this workbook. Here are some important vocabulary terms for this lesson: 
 
  
 
