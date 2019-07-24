@@ -35,7 +35,7 @@ A value (text, number, picture, etc.) that evaluate to true or false.
 ### Boolean Operators
 Boolean expressions that can be nested.
 
-**Lessons:** [Loops](loops/README.md)
+**Lesson:** [Loops](loops/README.md)
 
 
 ## C
@@ -87,6 +87,11 @@ Reducing the complexity of an algorithm or process by focusing on the important 
 
 **Lessons:** [Customization](customization/README.md)
 
+### Do Now
+Assigned work to be completed at the beginning of each class period before teacher instruction begins
+
+**Lessons:** [Snap!](https://snap.ashaltu.com/snap/lesson_building_blocks/do-now)
+
 ## E
 
 `No E entries`
@@ -109,6 +114,11 @@ Combining a group of related concepts or processes into a single category.
 A variable that can be used by all of your sprites.
 
 **Lessons:** [Cloning](cloning/README.md)
+
+### Glossary
+ A list of vocabulary and their definitions from the course
+
+**Links:** [Cloning](glossary/README.md)
 
 ## H
 
@@ -136,6 +146,14 @@ A collection of sounds that can be applied to a sprite costume.
 `No K entries`
 
 ## L
+
+### Labs
+Assignments created to help understand the concepts of each lesson and apply your learning
+**Lessons:** [Lists](lists/README.md)
+
+### Lesson Notes
+Information from each lesson for reference and guidance
+**Lessons:** [Snap!](https://snap.ashaltu.com/snap), [Loops](https://snap.ashaltu.com/loops), [Lists](lists/README.md)
 
 ### Lists Block
 A block which controls a list.
@@ -197,6 +215,11 @@ Called an 'array' in most programming languages, this holds lots of values.
 
 **Lessons:** [Lists](lists/README.md)
 
+### Projects
+Assignments that require you to use content and skills that you learned in a variety of a lessons to reach a larger goal
+
+**Lessons:** [Lists](lists/README.md)
+
 ## Q
 
 `No Q entries`
@@ -207,6 +230,11 @@ Called an 'array' in most programming languages, this holds lots of values.
 Code Block in Control that receives a message from another block.
 
 **Lessons:** [Getting Started with Snap!](getting_started_with_snap/README.md)
+
+### References
+A listing of all the blocks that are utilized within Snap! as well as additional resources to help you use the program
+
+**Related Links** [References](references/README.md)
 
 ### Reporter Block
 Report a value, usually for use in another block's input slot.
