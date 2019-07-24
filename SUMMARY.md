@@ -161,7 +161,7 @@
     * [Scripts](references/how-to/scripts.md)
     * [Movement & Position](references/how-to/movement-and-position.md)
     * [Drawing](references/how-to/drawing.md)
-  * [Accessibility](references/accessibility/README.md)
+  * [Readability](references/readability/README.md)
   * [Snap elements](references/snap-elements/README.md)
     * [Motion](references/snap-elements/motion.md)
     * [Looks](references/snap-elements/looks.md)
