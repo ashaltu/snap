@@ -4,7 +4,7 @@
 
  
 
-### Creating a Snap account 
+### Creating a Snap! account 
 
 Before you start your first lab assignment, be sure to create a Snap account. To set up a new account, find the cloud-shaped button in the top toolbar in the upper left corner of the Snap window: 
 
