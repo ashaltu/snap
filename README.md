@@ -1,8 +1,15 @@
 # Introduction to Computer Science
 
-## Lessons
+## Course structure
 
-## Labs and Projects
+### Do Nows
+{Definition of a Do Now}
+
+### Labs
+{Definition of a Lab}
+
+### Project
+{Definition of a Project}
 
 ## Snap!
 In this course you will use [Snap!](https://snap.berkeley.edu/). Snap! is a visual programming language designed to allow students to focus on concepts and skills rather than syntax when learning to program.
