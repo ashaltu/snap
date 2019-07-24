@@ -1,5 +1,5 @@
 # Sound
-The sound category provides blocks...
+Blocks in this category are used to play various sounds. They can also be used to change the volume or duration of a sound or the instrument playing the sound.
 
 ## Play sound
 ![The play sound block shape](./assets/block_playsound.png)

@@ -24,13 +24,12 @@
       * [Drawing a Triangle](snap/donow_drawing_a_triangle.md)
     * Labs
       * [Squares, Triangles, and Stars, Oh My!](snap/lab_squares_triangles_and_stars_oh_my.md)
+  * [Costumes](snap/lesson_costumes.md)
   * [Animation](snap/lesson_animation.md)
     * Do now
       * [Sprite Communication](snap/donow_sprite_communication.md)
     * Labs
       * [Sprites in Action](snap/lab_sprites_in_action.md)
-  * Quiz
-    * [Getting started with Snap!](snap/quiz.md)
   * [Storytelling](snap/lesson_storytelling.md)
     * Do now
       * [Knock Knock](snap/donow_knock_knock.md)
