@@ -1,5 +1,5 @@
 # Pen
-The pen category provides blocks...
+Blocks in this category deal with a sprite's pen, which is located at the center of a sprite. The pen allows a line to be drawn following the sprite's motion. Some blocks include lifting the pen up and down, setting the pen color and changing the size of the pen. 
 
 ## Clear
 ![The clear block shape](./assets/block_clear.png)
